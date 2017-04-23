@@ -1,0 +1,10 @@
+[package]
+name = "chat"
+version = "0.1.0"
+authors = ["Jure <jure.semrov@outlook.com>"]
+
+[dependencies]
+mio = "0.6"
+http-muncher = "0.3"
+rustc-serialize = "0.3"
+sha1 = "0.1"
